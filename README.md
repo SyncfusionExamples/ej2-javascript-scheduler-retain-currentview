@@ -22,7 +22,7 @@ The application is configured with `browser-sync`, so it will serve the web appl
 
 We used `SystemJS` for module loading.
 
-You can use the below npm script to run the web application.
+Once all packages are installed, you may use the following npm script to run the web application and verify its functionality. You can use the below npm script to run the web application.
 
 ```
 gulp serve
