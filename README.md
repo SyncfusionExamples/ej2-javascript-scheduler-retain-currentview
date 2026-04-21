@@ -1,8 +1,27 @@
-# Essential JS 2 QuickStart
+# Essential JS 2 Scheduler JavaScript Component
 
-This project is a skeleton application used to create [Essential JS 2](https://www.syncfusion.com/products/essential-js2) web application.
+A skeleton quickstart application for building modern web applications with Syncfusion Essential JS 2 components, specifically featuring the powerful Scheduler component for managing events and schedules.
 
-The application contains Essential JS 2 button component for preview and all common settings are preconfigured.
+## Project Overview
+
+This project is a skeleton application used to create [Essential JS 2](https://www.syncfusion.com/products/essential-js2) web application with the Scheduler component for preview and common settings preconfigured. The Scheduler component allows you to efficiently manage events, appointments, and meetings with a user-friendly interface.
+
+## Features
+
+- Pre-configured Scheduler component
+- Syncfusion Essential JS 2 integration
+- Browser-sync support for live reloading
+- SystemJS module loading
+- Gulp build automation
+- Ready-to-use project structure
+- All common settings preconfigured
+
+## Prerequisites
+
+Before you begin, ensure you have the following installed:
+- Node.js (version 12 or higher)
+- npm (Node Package Manager)
+- Gulp CLI (optional, for build automation)
 
 ## Installing
 
@@ -27,3 +46,14 @@ You can use the below npm script to run the web application.
 ```
 gulp serve
 ```
+
+## Documentation
+
+For comprehensive guidance on using Essential JS 2 components, visit the official documentation:
+
+- **Introduction:** https://ej2.syncfusion.com/javascript/documentation/introduction
+- **Scheduler Component:** https://ej2.syncfusion.com/javascript/documentation/schedule/getting-started
+
+## Support
+
+If you have any questions or need assistance, visit the [Syncfusion support portal](https://support.syncfusion.com) or explore the [Syncfusion community forums](https://www.syncfusion.com/forums).
