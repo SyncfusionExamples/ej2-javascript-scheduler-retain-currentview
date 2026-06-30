@@ -1,10 +1,6 @@
-# Essential JS 2 Scheduler JavaScript Component
+# JavaScript Scheduler with Custom View Intervals and View Persistence
 
-A skeleton quickstart application for building modern web applications with Syncfusion Essential JS 2 components, specifically featuring the powerful Scheduler component for managing events and schedules.
-
-## Project Overview
-
-This project is a skeleton application used to create [Essential JS 2](https://www.syncfusion.com/products/essential-js2) web application with the Scheduler component for preview and common settings preconfigured. The Scheduler component allows you to efficiently manage events, appointments, and meetings with a user-friendly interface.
+This project is a skeleton quick-start application built with Essential JS 2, demonstrating how to use the [JavaScript Scheduler](https://www.syncfusion.com/javascript-ui-controls/js-scheduler) for managing events, appointments, and schedules. It provides a preconfigured setup with common settings, enabling developers to quickly build modern web applications with a user-friendly scheduling interface.
 
 ## Features
 
